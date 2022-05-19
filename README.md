@@ -2,9 +2,9 @@
 
 **Authors**: Stephen A. Church, Hoyeon Choi, Nawal Al-Amairi, Ruqaiya Al-Abri, Ella Sanders, Eitan Oksenberg, Ernesto Joselevich, Patrick W. Parkinson
 
-This code accompanies the publication *Holistic Determination of Optoelectronic Properties using High-Throughput Spectroscopy of Surface-Guided CsPbBr3 Nanowires*, published in ACS Nano and available at [arxiv 2204.14065](https://arxiv.org/abs/2204.14065).
+This code accompanies the publication *Holistic Determination of Optoelectronic Properties using High-Throughput Spectroscopy of Surface-Guided CsPbBr3 Nanowires*, published in [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.2c01086) and available at [arxiv 2204.14065](https://arxiv.org/abs/2204.14065).
 
-If you want to simply play with the data associated with this work, you may find the [version on Google Colab](https://colab.research.google.com/github/p-parkinson/holistic_determination_CsPbBr3_nanowires/blob/main/Holistic_determination_analysis.ipynb) easier to use.
+If you want to simply explore with the data associated with this work, you may find the [version on Google Colab](https://colab.research.google.com/github/p-parkinson/holistic_determination_CsPbBr3_nanowires/blob/main/Holistic_determination_analysis.ipynb) easier to use.
 
 
 ### Contents
